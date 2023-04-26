@@ -1,1 +1,1 @@
-export  const URL ="http://localhost:8000/todo";
+export  const URL ="https://wafer-todo-api-production.up.railway.app/todo";
